@@ -35,7 +35,7 @@ export const Form = styled.form`
   }
 
   a {
-    color: white;
+    color: #6a6a6a;
     font-size: 14px;
   }
 `
